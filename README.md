@@ -21,13 +21,11 @@
 
   - Math Scores
 
-<img src= 'Resources/math_test_scores_all.png'>
-<img src= 'Resources/math_test_scores_no_ths9.png'>
+<img src= 'Resources/math_test_scores_all.png'>     <img src= 'Resources/math_test_scores_no_ths9.png'>
 
  - - Reading scores
 
-<img src= 'Resources/reading_test_scores_all.png'>
-<img src= 'Resources/reading_test_scores_no_ths9.png'>
+<img src= 'Resources/reading_test_scores_all.png'>    <img src= 'Resources/reading_test_scores_no_ths9.png'>
 
   - Scores by school spending
 
