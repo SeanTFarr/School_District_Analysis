@@ -1,9 +1,13 @@
 # School_District_Analysis
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview: 
 
+Maria, the chief data scientist for a city school district, recruited my help to prepare standardized test data for analysis, reporting, and presentation to provide the school board with insights about performance trends and patterns within the district schools. 
 
+After completing the initial analysis, the school board notified Maria that there may have been some academically dishonest reporting of the students grades from Thomas High School, specifically the 9th grade. Maria then had me go back through the data and replace the scores with "Nan", while keeping the remaining data intact, then repeat the analysis and write a report to describe how the changes affected the overall analysis.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+### Metrics Measured:
+
+## Results:
 
 - How is the district summary affected?
 
